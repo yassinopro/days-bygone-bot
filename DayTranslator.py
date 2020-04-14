@@ -1,5 +1,10 @@
 import pyautogui as pag
 import numpy as np
+from PIL import Image
+import pytesseract
+import time
+import re
+import cv2
 
 # Since I tested on a 3k Monitor, the default screen size for ratio calculations is 2560x1440
 # TEST_SCREEN_WIDTH, TEST_SCREEN_HEIGHT = 2560, 1440
@@ -84,8 +89,67 @@ def getDoubleGoldButton():
     ))
 
 
+# i = 116
+# while ( True ):
+#     img = pag.screenshot("Resources\Day{}.PNG".format(i), region=(
+#         975,
+#         25,
+#         410,
+#         100
+#     ))
+#     i += 1
+#     input("Press Enter to continue...")
+
+
+txt = open("Day Values2.txt", 'w')
+txt2 = open("Day Values.txt", 'w')
+i = 38
+while ( i <= 115):
+    img = cv2.imread("Resources\Day{}.PNG".format(i))
+    img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    var = pytesseract.image_to_string(img, lang='eng', config='--dpi 300 --psm 13 --oem 3 -c tessedit_char_whitelist=0123456789')
+    txt.write(var + "\n")
+
+    var = re.sub("[^0-9]", "", var)
+    txt2.write(var + "\n")
+
+    i += 1
+
+txt.close()
+
+
+
+# txt = open("Day Values.txt", 'w')
+#
+# i = 0
+# while (True):
+#     pag.screenshot("Day.PNG", region=(
+#         975,
+#         25,
+#         410,
+#         100
+#
+#     ))
+#
+#     var = pytesseract.image_to_string(Image.open('Day.PNG'), config='--psm 13 --oem 3 -c tessedit_char_whitelist=0123456789')
+#     var = re.sub("[^0-9]", "", var)
+#
+#     txt.write(var + "\n")
+#
+#     print("VAR:" + var)
+#
+#     try:
+#         if (int(var) >= 2983):
+#             break
+#         elif (i >= 3000):
+#             break
+#     except(ValueError):
+#         pass
+#
+#     i += 1
+#     time.sleep(1)
+#
+# txt.close()
 
 # if __name__ == '__main__':
 #     getBattleButton()
-
-
