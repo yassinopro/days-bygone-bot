@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/DayTranslator.py" line="112" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="db563784-dd97-418d-8fe4-0f8b0b3dd6f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day Values.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day Values.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day Values2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day Values2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DayTranslator.py" beforeDir="false" afterPath="$PROJECT_DIR$/DayTranslator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,13 +21,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DayTranslator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="109" column="73" selection-start-line="109" selection-start-column="73" selection-end-line="109" selection-end-column="73" />
+            <state relative-caret-position="150">
+              <caret line="110" column="34" selection-start-line="110" selection-start-column="34" selection-end-line="110" selection-end-column="34" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-                <element signature="e#302#994#0" />
-                <element signature="e#1026#1724#0" />
-                <element signature="e#1758#2461#0" />
+                <element signature="e#335#1027#0" />
+                <element signature="e#1059#1757#0" />
+                <element signature="e#1791#2494#0" />
               </folding>
             </state>
           </provider>
@@ -31,7 +36,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sandbox.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="54">
               <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -78,11 +83,6 @@
             <path>
               <item name="DaysBygoneBot" type="b2602c69:ProjectViewProjectNode" />
               <item name="DaysBygoneBot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DaysBygoneBot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DaysBygoneBot" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DaysBygoneBot" type="b2602c69:ProjectViewProjectNode" />
@@ -191,18 +191,37 @@
       <workItem from="1586622832036" duration="226000" />
       <workItem from="1586823041290" duration="1394000" />
       <workItem from="1586885439902" duration="1065000" />
-      <workItem from="1586897230810" duration="8463000" />
+      <workItem from="1586897230810" duration="8818000" />
+      <workItem from="1587141906301" duration="224000" />
+      <workItem from="1587168853651" duration="2766000" />
     </task>
+    <task id="LOCAL-00001" summary="Region for Day Values&#10;Image Files for Training&#10;Pytesseract for number recognition&#10;Played around with values">
+      <created>1586908200223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586908200223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29361000" />
+    <option name="totallyTimeSpent" value="32706000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="119" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15351813" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15671642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -211,7 +230,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46843335" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -228,9 +247,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Region for Day Values&#10;Image Files for Training&#10;Pytesseract for number recognition&#10;Played around with values" />
+    <option name="LAST_COMMIT_MESSAGE" value="Region for Day Values&#10;Image Files for Training&#10;Pytesseract for number recognition&#10;Played around with values" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DaysBygoneBot$Sandbox.coverage" NAME="Sandbox Coverage Results" MODIFIED="1586903834382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/DaysBygoneBot$DayTranslator.coverage" NAME="DayTranslator Coverage Results" MODIFIED="1586908096427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DaysBygoneBot$DayTranslator.coverage" NAME="DayTranslator Coverage Results" MODIFIED="1587171734649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://P:/Working/Anaconda/Lib/site-packages/pytesseract/pytesseract.py">
@@ -240,34 +263,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sandbox.py">
+    <entry file="file://$PROJECT_DIR$/Day.PNG" />
+    <entry file="file://$PROJECT_DIR$/Temp.PNG" />
+    <entry file="file://$PROJECT_DIR$/Day38.PNG" />
+    <entry file="file://$PROJECT_DIR$/DayTranslator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="110" column="34" selection-start-line="110" selection-start-column="34" selection-end-line="110" selection-end-column="34" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#335#1027#0" />
+            <element signature="e#1059#1757#0" />
+            <element signature="e#1791#2494#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Temp.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day38.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DayTranslator.py">
+    <entry file="file://$PROJECT_DIR$/Sandbox.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="109" column="73" selection-start-line="109" selection-start-column="73" selection-end-line="109" selection-end-column="73" />
+        <state relative-caret-position="54">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
-            <element signature="e#302#994#0" />
-            <element signature="e#1026#1724#0" />
-            <element signature="e#1758#2461#0" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>

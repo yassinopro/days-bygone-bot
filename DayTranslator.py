@@ -5,6 +5,7 @@ import pytesseract
 import time
 import re
 import cv2
+from matplotlib import pyplot as plt
 
 # Since I tested on a 3k Monitor, the default screen size for ratio calculations is 2560x1440
 # TEST_SCREEN_WIDTH, TEST_SCREEN_HEIGHT = 2560, 1440
@@ -107,6 +108,8 @@ i = 38
 while ( i <= 115):
     img = cv2.imread("Resources\Day{}.PNG".format(i))
     img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    _, img = cv2.threshold(img, 50, 255, cv2.THRESH_BINARY_INV)
+    cv2.imwrite("E:\ProjectsPython\DaysBygoneBot\ResourcesUpdated\Day{}.PNG".format(i), img)
     var = pytesseract.image_to_string(img, lang='eng', config='--dpi 300 --psm 13 --oem 3 -c tessedit_char_whitelist=0123456789')
     txt.write(var + "\n")
 
