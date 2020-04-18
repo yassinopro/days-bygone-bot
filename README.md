@@ -9,12 +9,12 @@ To-Do:
 
 Notes:
     
-    Try different libs for image recognition of numbers. If nothing works, maybe train tesseract with font of days bygone?
-        - Probably will need to cut out every number
+    - Play around more with altering images
         
 
 Done:
 
+    - Vastly improved accuracy
     - Added functions to find buttons on screen needed to get to campaign.
     - Added function to screenshot current day
     - Added function to translate number in image to value (using pytesseract)
