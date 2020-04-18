@@ -107,10 +107,14 @@ txt2 = open("Day Values.txt", 'w')
 i = 38
 while ( i <= 115):
     img = cv2.imread("Resources\Day{}.PNG".format(i))
+
     img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     _, img = cv2.threshold(img, 50, 255, cv2.THRESH_BINARY_INV)
-    cv2.imwrite("E:\ProjectsPython\DaysBygoneBot\ResourcesUpdated\Day{}.PNG".format(i), img)
-    var = pytesseract.image_to_string(img, lang='eng', config='--dpi 300 --psm 13 --oem 3 -c tessedit_char_whitelist=0123456789')
+    kernel = np.ones((3, 3), np.uint8)
+    img = cv2.erode(img, kernel, iterations=1)
+    img = cv2.blur(img, (5,5))
+    # cv2.imwrite("E:\ProjectsPython\DaysBygoneBot\ResourcesUpdated\Day{}.PNG".format(i), img)
+    var = pytesseract.image_to_string(img, lang='eng', config='--psm 13 --oem 3 -c tessedit_char_whitelist=0123456789')
     txt.write(var + "\n")
 
     var = re.sub("[^0-9]", "", var)
