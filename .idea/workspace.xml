@@ -1,92 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/DayTranslator.py" line="116" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="db563784-dd97-418d-8fe4-0f8b0b3dd6f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/Dominique.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DaysBygoneBot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/BattleButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/CampaignButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/ConfirmRewindButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/Day.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/DayAltered.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/DoubleGoldButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/OkButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/PauseButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/ReturnButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/RewindButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/RewindButtonLock.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/SectionTitleSkills.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Images/SkillsTab.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RefImages/BattleButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RefImages/CampaignButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RefImages/ConfirmRewindButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RefImages/DoubleGoldButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RefImages/OkButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RefImages/PauseButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RefImages/ReturnButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RefImages/RewindButton.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RefImages/RewindButtonLock.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RefImages/SectionTitleSkills.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RefImages/SkillsTab.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sandbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScreenReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day Values.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day Values.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day Values2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day Values2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DayTranslator.py" beforeDir="false" afterPath="$PROJECT_DIR$/DayTranslator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day100.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day100.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day101.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day101.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day102.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day102.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day103.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day103.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day104.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day104.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day105.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day105.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day106.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day106.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day107.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day107.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day108.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day108.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day109.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day109.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day110.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day110.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day111.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day111.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day112.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day112.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day113.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day113.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day114.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day114.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day115.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day115.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day38.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day38.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day39.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day39.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day40.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day40.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day41.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day41.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day42.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day42.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day43.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day43.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day44.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day44.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day45.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day45.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day46.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day46.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day47.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day47.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day48.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day48.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day49.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day49.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day50.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day50.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day51.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day51.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day52.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day52.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day53.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day53.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day54.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day54.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day55.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day55.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day56.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day56.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day57.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day57.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day58.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day58.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day59.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day59.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day60.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day60.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day61.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day61.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day62.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day62.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day63.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day63.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day64.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day64.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day65.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day65.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day66.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day66.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day67.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day67.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day68.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day68.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day69.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day69.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day70.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day70.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day71.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day71.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day72.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day72.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day73.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day73.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day74.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day74.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day75.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day75.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day76.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day76.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day77.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day77.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day78.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day78.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day79.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day79.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day80.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day80.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day81.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day81.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day82.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day82.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day83.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day83.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day84.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day84.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day85.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day85.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day86.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day86.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day87.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day87.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day88.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day88.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day89.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day89.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day90.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day90.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day91.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day91.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day92.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day92.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day93.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day93.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day94.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day94.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day95.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day95.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day96.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day96.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day97.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day97.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day98.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day98.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day99.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesUpdated/Day99.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BattleButton.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CampaignButton.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompareBattleButton.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompareCampaignButton.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompareDoubleGoldButton.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayTranslator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoubleGoldButton.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day100.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day101.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day102.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day103.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day104.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day105.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day106.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day107.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day108.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day109.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day110.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day111.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day112.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day113.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day114.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day115.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day38.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day39.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day40.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day41.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day42.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day43.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day44.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day45.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day46.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day47.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day48.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day49.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day50.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day51.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day52.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day53.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day54.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day55.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day56.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day57.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day58.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day59.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day60.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day61.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day62.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day63.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day64.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day65.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day66.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day67.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day68.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day69.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day70.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day71.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day72.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day73.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day74.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day75.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day76.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day77.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day78.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day79.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day80.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day81.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day82.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day83.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day84.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day85.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day86.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day87.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day88.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day89.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day90.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day91.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day92.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day93.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day94.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day95.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day96.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day97.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day98.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Day99.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day100.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day101.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day102.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day103.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day104.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day105.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day106.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day107.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day108.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day109.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day110.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day111.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day112.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day113.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day114.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day115.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day38.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day39.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day40.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day41.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day42.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day43.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day44.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day45.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day46.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day47.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day48.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day49.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day50.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day51.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day52.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day53.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day54.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day55.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day56.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day57.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day58.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day59.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day60.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day61.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day62.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day63.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day64.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day65.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day66.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day67.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day68.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day69.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day70.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day71.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day72.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day73.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day74.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day75.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day76.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day77.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day78.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day79.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day80.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day81.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day82.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day83.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day84.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day85.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day86.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day87.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day88.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day89.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day90.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day91.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day92.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day93.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day94.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day95.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day96.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day97.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day98.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesUpdated/Day99.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sandbox.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,36 +207,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DayTranslator.py">
+        <entry file="file://$PROJECT_DIR$/DaysBygoneBot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="116" column="63" selection-start-line="116" selection-start-column="63" selection-end-line="116" selection-end-column="63" />
+            <state relative-caret-position="253">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/Resources/Images/RewindButtonLock.PNG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ScreenReader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="384" column="26" lean-forward="true" selection-start-line="384" selection-start-column="26" selection-end-line="384" selection-end-column="26" />
+              <folding>
+                <element signature="e#218#546#0" />
+                <element signature="e#588#1032#1" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sandbox.py">
+        <entry file="file://$PROJECT_DIR$/Resources/Images/DoubleGoldButton.PNG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/RefImages/DoubleGoldButton.PNG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sandbox.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="115">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,17 +273,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Sandbox.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Sandbox.py" />
         <option value="$PROJECT_DIR$/DayTranslator.py" />
+        <option value="$PROJECT_DIR$/ScreenImager.py" />
+        <option value="$PROJECT_DIR$/ScreenReader.py" />
+        <option value="$PROJECT_DIR$/src/ScreenReader.py" />
+        <option value="$PROJECT_DIR$/src/Sandbox.py" />
+        <option value="$PROJECT_DIR$/DaysBygoneBot.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1756" />
-    <option name="y" value="274" />
-    <option name="width" value="1643" />
-    <option name="height" value="796" />
+    <option name="x" value="390" />
+    <option name="y" value="664" />
+    <option name="width" value="1432" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -165,12 +296,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="DaysBygoneBot" type="b2602c69:ProjectViewProjectNode" />
               <item name="DaysBygoneBot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DaysBygoneBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DaysBygoneBot" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DaysBygoneBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DaysBygoneBot" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DaysBygoneBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DaysBygoneBot" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="RefImages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DaysBygoneBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DaysBygoneBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DaysBygoneBot" type="b2602c69:ProjectViewProjectNode" />
@@ -185,7 +339,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,7 +347,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,8 +361,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DayTranslator">
-    <configuration name="DayTranslator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DaysBygoneBot">
+    <configuration name="DaysBygoneBot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DaysBygoneBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,7 +375,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DayTranslator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DaysBygoneBot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +397,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sandbox.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sandbox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,10 +406,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ScreenReader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DaysBygoneBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ScreenReader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.DaysBygoneBot" />
+      <item itemvalue="Python.Sandbox" />
+      <item itemvalue="Python.ScreenReader" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DayTranslator" />
+        <item itemvalue="Python.DaysBygoneBot" />
         <item itemvalue="Python.Sandbox" />
+        <item itemvalue="Python.ScreenReader" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +463,16 @@
       <workItem from="1586897230810" duration="8818000" />
       <workItem from="1587141906301" duration="224000" />
       <workItem from="1587168853651" duration="3045000" />
-      <workItem from="1587177820422" duration="1603000" />
+      <workItem from="1587177820422" duration="2672000" />
+      <workItem from="1587311651058" duration="494000" />
+      <workItem from="1587414618174" duration="2006000" />
+      <workItem from="1587901335880" duration="18928000" />
+      <workItem from="1588341155737" duration="10799000" />
+      <workItem from="1588360978994" duration="2029000" />
+      <workItem from="1588423915255" duration="3182000" />
+      <workItem from="1588430923263" duration="3239000" />
+      <workItem from="1588437617119" duration="1777000" />
+      <workItem from="1588441847546" duration="3490000" />
     </task>
     <task id="LOCAL-00001" summary="Region for Day Values&#10;Image Files for Training&#10;Pytesseract for number recognition&#10;Played around with values">
       <created>1586908200223</created>
@@ -305,11 +495,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587171896523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Further improved on accuracy">
+      <created>1587179685185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587179685185</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34588000" />
+    <option name="totallyTimeSpent" value="81601000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,29 +518,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="119" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15831557" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08227345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34127843" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46843335" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25097427" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2539185" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.45720476" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.45674202" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.17910448" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.21209912" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.17885533" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -354,11 +550,16 @@
     <MESSAGE value="Region for Day Values&#10;Image Files for Training&#10;Pytesseract for number recognition&#10;Played around with values" />
     <MESSAGE value="Altered Image Files (Threshold)&#10;Added Dir for altered images" />
     <MESSAGE value="Updated README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
+    <MESSAGE value="Further improved on accuracy" />
+    <MESSAGE value="Further build application skeletion&#10;&#10;Add position data for all needed buttons/areas&#10;Add function for getting and processing of day&#10;Add function for running campaign of game&#10;Add function to compare images" />
+    <MESSAGE value="Make it work&#10;&#10;* Restructure code&#10;* Restructure project folder&#10;* Add escape possibility&#10;* Add timeout for functions&#10;* Add running loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make it work&#10;&#10;* Restructure code&#10;* Restructure project folder&#10;* Add escape possibility&#10;* Add timeout for functions&#10;* Add running loop" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DaysBygoneBot$Sandbox.coverage" NAME="Sandbox Coverage Results" MODIFIED="1586903834382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/DaysBygoneBot$DayTranslator.coverage" NAME="DayTranslator Coverage Results" MODIFIED="1587179588528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DaysBygoneBot$ScreenReader.coverage" NAME="ScreenReader Coverage Results" MODIFIED="1588345687312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/DaysBygoneBot$Sandbox.coverage" NAME="Sandbox Coverage Results" MODIFIED="1588445288193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DaysBygoneBot$DaysBygoneBot.coverage" NAME="DaysBygoneBot Coverage Results" MODIFIED="1588445383104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DaysBygoneBot$DayTranslator.coverage" NAME="DayTranslator Coverage Results" MODIFIED="1587921896450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://P:/Working/Anaconda/Lib/site-packages/pytesseract/pytesseract.py">
@@ -368,19 +569,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day.PNG" />
     <entry file="file://$PROJECT_DIR$/Temp.PNG" />
     <entry file="file://$PROJECT_DIR$/Day38.PNG" />
-    <entry file="file://$PROJECT_DIR$/Sandbox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -391,15 +581,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DayTranslator.py">
+    <entry file="file://$PROJECT_DIR$/Resources/Day104.PNG" />
+    <entry file="file://$PROJECT_DIR$/Day.PNG" />
+    <entry file="file://$PROJECT_DIR$/Day.jpg" />
+    <entry file="file://$PROJECT_DIR$/CampaignButton.PNG" />
+    <entry file="file://$PROJECT_DIR$/PauseButton.PNG" />
+    <entry file="file://$PROJECT_DIR$/ReturnButton.PNG" />
+    <entry file="file://$PROJECT_DIR$/CampaignButton.jpg" />
+    <entry file="file://$PROJECT_DIR$/CompareBattleButton.PNG" />
+    <entry file="file://$PROJECT_DIR$/DayAltered.jpg" />
+    <entry file="file://$PROJECT_DIR$/CompareSkillsCard.PNG" />
+    <entry file="file://$PROJECT_DIR$/CompareSkillsCardOn.PNG" />
+    <entry file="file://$PROJECT_DIR$/CompareRewindButtonLock.PNG" />
+    <entry file="file://$PROJECT_DIR$/RewindButton.PNG" />
+    <entry file="file://$PROJECT_DIR$/Sandbox.py" />
+    <entry file="file://$PROJECT_DIR$/CompareOkButton.PNG" />
+    <entry file="file://$PROJECT_DIR$/CompareSkillsCardOff.PNG" />
+    <entry file="file://$PROJECT_DIR$/CompareSectionTitleSkills.PNG" />
+    <entry file="file://$PROJECT_DIR$/CompareConfirmRewindButton.PNG" />
+    <entry file="file://$PROJECT_DIR$/CompareRewindButton.PNG" />
+    <entry file="file://$PROJECT_DIR$/DayTranslator.py" />
+    <entry file="file://$PROJECT_DIR$/ScreenReader.py" />
+    <entry file="file://$PROJECT_DIR$/Resources/RefImages/SkillsTab.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Images/SectionTitleSkills.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/RefImages/SectionTitleSkills.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Images/SkillsTab.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Images/Day.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/RefImages/RewindButtonLock.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Images/DoubleGoldButton.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/RefImages/DoubleGoldButton.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Images/RewindButtonLock.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScreenReader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="116" column="63" selection-start-line="116" selection-start-column="63" selection-end-line="116" selection-end-column="63" />
+        <state relative-caret-position="729">
+          <caret line="384" column="26" lean-forward="true" selection-start-line="384" selection-start-column="26" selection-end-line="384" selection-end-column="26" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#218#546#0" />
+            <element signature="e#588#1032#1" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sandbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DaysBygoneBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>Dominique</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
