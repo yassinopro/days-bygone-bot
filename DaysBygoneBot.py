@@ -47,13 +47,13 @@ def campaignMode(reader, time_to_sleep = 5):
         time.sleep(time_to_sleep)
 
 
-def clickButton(file_name, getImageFunc):
+def clickButton(file_name, waiting_time, getImageFunc):
     is_running = True
     t0 = time.clock()
     while (is_running):
         t1 = t0 - time.clock()
         print("t1: {}".format(t1))
-        if t1 < -15:
+        if t1 < -waiting_time:
             break
         if (keyboard.is_pressed('y')):
             break
@@ -77,21 +77,21 @@ if __name__ == '__main__':
         if (keyboard.is_pressed('y')):
             break
 
-        clickButton("BattleButton.PNG", reader.getBattleButton)
+        clickButton("BattleButton.PNG", 15, reader.getBattleButton)
 
-        clickButton("CampaignButton.PNG", reader.getCampaignButton)
+        clickButton("CampaignButton.PNG", 15, reader.getCampaignButton)
 
-        clickButton("DoubleGoldButton.PNG", reader.getDoubleGoldButton)
+        clickButton("DoubleGoldButton.PNG", 15, reader.getDoubleGoldButton)
 
         campaignMode(reader)
 
-        clickButton("PauseButton.PNG", reader.getPauseButton)
+        clickButton("PauseButton.PNG", 15, reader.getPauseButton)
 
-        clickButton("ReturnButton.PNG", reader.getReturnButton)
+        clickButton("ReturnButton.PNG", 15, reader.getReturnButton)
 
-        clickButton("OkButton.PNG", reader.getOkButton)
+        clickButton("OkButton.PNG", 15, reader.getOkButton)
 
-        clickButton("SkillsTab.PNG", reader.getTabSkills)
+        clickButton("SkillsTab.PNG", 15, reader.getTabSkills)
 
         is_running = True
         while is_running:
@@ -101,5 +101,5 @@ if __name__ == '__main__':
             if ( reader.compareImages("Resources\RefImages\RewindButtonLock.PNG", "Resources\Images\RewindButtonLock.PNG") ):
                 is_running = False
             else:
-                clickButton("RewindButton.PNG", reader.getRewindButton)
-                clickButton("ConfirmRewindButton.PNG", reader.getConfirmRewindButton)
+                clickButton("RewindButton.PNG", 2, reader.getRewindButton)
+                clickButton("ConfirmRewindButton.PNG", 2, reader.getConfirmRewindButton)
