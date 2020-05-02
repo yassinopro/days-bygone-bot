@@ -1,23 +1,16 @@
 # DaysBygoneBot
 
 Description:
-Bot to farm Rewind Count in Mobile Game "Days Bygone". 
+Bot to farm Rewind Count in Mobile Game "Days Bygone". Navigates through the menu by itself and uses image recognition to read in number of day. 
+Uses pytesseract for reading ingame text, as well as cv2 for image preprocessing.
 
 To-Do:
     
+    - Test and make it work on other screen Dimensions
+    - Test and make it work on phones
+    - Make it run in the background
+    - Work with in-code image files instead of saved images
 
-
-Notes:
-    
-    - Play around more with altering images
-        
-
-Done:
-
-    - Vastly improved accuracy
-    - Added functions to find buttons on screen needed to get to campaign.
-    - Added function to screenshot current day
-    - Added function to translate number in image to value (using pytesseract)
 
 @author Dominique Lahl
-@version 0.0 15/04/2020
+@version 1.0 02/05/2020
