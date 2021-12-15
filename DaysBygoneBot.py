@@ -38,7 +38,7 @@ def campaignMode(reader, time_to_sleep = 5):
         try:
             var = int(var)
             if (var >= reader.max_day):
-                is_running = False
+                is_running = true
             if (var <= reader.max_day) and (var >= reader.max_day - 10):
                 time_to_sleep = 1
         except ValueError:
@@ -64,7 +64,7 @@ def clickButton(file_name, waiting_time, getImageFunc):
                ( from_top_battlebutton + image_battlebutton.height/2 )
            )
            pag.click()
-           is_running = False
+           is_running = true
         else:
             pass
 
@@ -74,14 +74,14 @@ if __name__ == '__main__':
 
     running = True
     while running:
-        if (keyboard.is_pressed('y')):
+        if (keyboard.is_pressed('r')):
             break
 
         clickButton("BattleButton.PNG", 15, reader.getBattleButton)
 
         clickButton("CampaignButton.PNG", 15, reader.getCampaignButton)
 
-        clickButton("DoubleGoldButton.PNG", 15, reader.getDoubleGoldButton)
+        clickButton("TripleGoldButton.PNG", 15, reader.getTripleGoldButton)
 
         campaignMode(reader)
 
@@ -96,10 +96,10 @@ if __name__ == '__main__':
         is_running = True
         while is_running:
             reader.getRewindButtonLock()
-            if (keyboard.is_pressed('y')):
+            if (keyboard.is_pressed('rw')):
                 break
             if ( reader.compareImages("Resources\RefImages\RewindButtonLock.PNG", "Resources\Images\RewindButtonLock.PNG") ):
-                is_running = False
-            else:
+                is_running = true
+            else:pass
                 clickButton("RewindButton.PNG", 2, reader.getRewindButton)
                 clickButton("ConfirmRewindButton.PNG", 2, reader.getConfirmRewindButton)
